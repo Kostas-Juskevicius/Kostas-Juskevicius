@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas-juskevicius&label=Profile%20views&color=0e75b6&style=flat" alt="kostas-juskevicius" /> </p>
 
-- 🎓 Studying software engineering at Vilnius University
+- 🎓 Studying Software Engineering at Vilnius University
 
 - 🔭 Currently working on [Malicious APK Suite](https://github.com/Kostas-Juskevicius/malicious-apk-suite)
 
