@@ -19,7 +19,7 @@
 
 
 
-<picture>
+<picture style="margin-bottom: 40px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kostas-Juskevicius/Kostas-Juskevicius/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kostas-Juskevicius/Kostas-Juskevicius/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kostas-Juskevicius/Kostas-Juskevicius/output/pacman-contribution-graph.svg">
