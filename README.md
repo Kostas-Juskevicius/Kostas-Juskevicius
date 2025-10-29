@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostas-juskevicius&label=Profile%20views&color=0e75b6&style=flat" alt="kostas-juskevicius" /> </p>
 
-- 🔭 I’m currently working on [Malicious APK Suite](https://github.com/Kostas-Juskevicius/malicious-apk-suite)
+- 🎓 Studying software engineering at Vilnius University
+
+- 🔭 Currently working on [Malicious APK Suite](https://github.com/Kostas-Juskevicius/malicious-apk-suite)
 
 - 💬 Let's chat about: **Linux, Neovim, malware, Frida, Ghidra, reverse engineering, sandboxing, obfuscation (or anything else)**
 
