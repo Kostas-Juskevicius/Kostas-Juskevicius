@@ -5,8 +5,6 @@
 
 - 🎓 Studying Software Engineering at Vilnius University
 
-- 🔭 Currently working on [Malicious APK Suite](https://github.com/Kostas-Juskevicius/malicious-apk-suite)
-
 - 💬 Let's chat about: **Linux, Neovim, malware, Frida, Ghidra, reverse engineering, sandboxing, obfuscation (or anything else)**
 
 - 📫 How to reach me: **kostas.jusk@gmail.com**
